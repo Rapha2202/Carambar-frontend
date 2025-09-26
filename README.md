@@ -8,8 +8,8 @@ Ce site web propose une expérience interactive autour de l'univers Carambar. Il
 
 ## Liens
 
-Liens vers l'API: [Carambar-backend](https://github.com/Rapha2202/Carambar-backend)
-Liens vers la documentation de l'API: Swagger
+- Liens vers l'API: [Carambar-backend](https://github.com/Rapha2202/Carambar-backend)
+- Liens vers la documentation de l'API: Swagger
 
 ## Prérequis
 
