@@ -6,6 +6,11 @@ Bienvenue sur le frontend du projet **Carambar**.
 
 Ce site web propose une expérience interactive autour de l'univers Carambar. Il permet aux utilisateurs de découvrir, partager et s'amuser avec des contenus originaux.
 
+## Liens
+
+Liens vers l'API: [Carambar-backend](https://github.com/Rapha2202/Carambar-backend)
+Liens vers la documentation de l'API: Swagger
+
 ## Prérequis
 
 - [Node.js](https://nodejs.org/)
